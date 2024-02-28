@@ -1,99 +1,98 @@
 base_url,link,server,next_event_time,totalEvents,totalNpcs
-http://kvj1.tribals.io:3000/api/stats,https://tribals.io/#KVJ1,kvj1,0 seconds,0,18
-http://k2wn.tribals.io:3000/api/stats,https://tribals.io/#K2WN,k2wn,0 seconds,0,18
+http://6m42.tribals.io:3000/api/stats,https://tribals.io/#6M42,6m42,0 seconds,0,30
 http://157v.tribals.io:3000/api/stats,https://tribals.io/#157V,157v,0 seconds,0,12
 http://pugy.tribals.io:3000/api/stats,https://tribals.io/#PUGY,pugy,0 seconds,0,18
-http://6m42.tribals.io:3000/api/stats,https://tribals.io/#6M42,6m42,0 seconds,0,30
+http://kvj1.tribals.io:3000/api/stats,https://tribals.io/#KVJ1,kvj1,0 seconds,0,18
+http://k2wn.tribals.io:3000/api/stats,https://tribals.io/#K2WN,k2wn,0 seconds,0,18
 http://z9q9.tribals.io:3000/api/stats,https://tribals.io/#Z9Q9,z9q9,0 seconds,0,30
-http://4vb0.tribals.io:3000/api/stats,https://tribals.io/#4VB0,4vb0,0 seconds,0,12
 http://ju07.tribals.io:3000/api/stats,https://tribals.io/#JU07,ju07,0 seconds,0,18
+http://4vb0.tribals.io:3000/api/stats,https://tribals.io/#4VB0,4vb0,0 seconds,0,12
 http://0p95.tribals.io:3000/api/stats,https://tribals.io/#0P95,0p95,0 seconds,0,24
 http://m5ax.tribals.io:3000/api/stats,https://tribals.io/#M5AX,m5ax,0 seconds,0,18
-http://ayyt.tribals.io:3000/api/stats,https://tribals.io/#AYYT,ayyt,0 seconds,0,30
 http://gm5b.tribals.io:3000/api/stats,https://tribals.io/#GM5B,gm5b,0 seconds,0,24
+http://ayyt.tribals.io:3000/api/stats,https://tribals.io/#AYYT,ayyt,0 seconds,0,30
 http://g5uu.tribals.io:3000/api/stats,https://tribals.io/#G5UU,g5uu,0 seconds,0,12
 http://lf1n.tribals.io:3000/api/stats,https://tribals.io/#LF1N,lf1n,0 seconds,0,24
-http://9fph.tribals.io:3000/api/stats,https://tribals.io/#9FPH,9fph,0 seconds,0,24
 http://tqc2.tribals.io:3000/api/stats,https://tribals.io/#TQC2,tqc2,0 seconds,0,18
 http://nyny.tribals.io:3000/api/stats,https://tribals.io/#NYNY,nyny,0 seconds,0,18
+http://9fph.tribals.io:3000/api/stats,https://tribals.io/#9FPH,9fph,0 seconds,0,24
 http://bppo.tribals.io:3000/api/stats,https://tribals.io/#BPPO,bppo,0 seconds,0,12
-http://3pc2.tribals.io:3000/api/stats,https://tribals.io/#3PC2,3pc2,0 seconds,0,12
 http://3sty.tribals.io:3000/api/stats,https://tribals.io/#3STY,3sty,0 seconds,0,12
 http://kytc.tribals.io:3000/api/stats,https://tribals.io/#KYTC,kytc,0 seconds,0,12
-http://grdz.tribals.io:3000/api/stats,https://tribals.io/#GRDZ,grdz,0 seconds,0,30
-http://gb4v.tribals.io:3000/api/stats,https://tribals.io/#GB4V,gb4v,0 seconds,0,18
+http://3pc2.tribals.io:3000/api/stats,https://tribals.io/#3PC2,3pc2,0 seconds,0,12
 http://8p7u.tribals.io:3000/api/stats,https://tribals.io/#8P7U,8p7u,0 seconds,0,24
-http://fop4.tribals.io:3000/api/stats,https://tribals.io/#FOP4,fop4,0 seconds,0,12
-http://ortu.tribals.io:3000/api/stats,https://tribals.io/#ORTU,ortu,0 seconds,0,12
 http://7pos.tribals.io:3000/api/stats,https://tribals.io/#7POS,7pos,0 seconds,0,18
-http://3ttv.tribals.io:3000/api/stats,https://tribals.io/#3TTV,3ttv,0 seconds,1,36
+http://grdz.tribals.io:3000/api/stats,https://tribals.io/#GRDZ,grdz,0 seconds,0,30
+http://ortu.tribals.io:3000/api/stats,https://tribals.io/#ORTU,ortu,0 seconds,0,12
+http://gb4v.tribals.io:3000/api/stats,https://tribals.io/#GB4V,gb4v,0 seconds,0,18
+http://fop4.tribals.io:3000/api/stats,https://tribals.io/#FOP4,fop4,0 seconds,0,12
 http://h1xv.tribals.io:3000/api/stats,https://tribals.io/#H1XV,h1xv,0 seconds,1,36
 http://d0wm.tribals.io:3000/api/stats,https://tribals.io/#D0WM,d0wm,0 seconds,1,6
+http://3ttv.tribals.io:3000/api/stats,https://tribals.io/#3TTV,3ttv,0 seconds,1,36
 http://72tb.tribals.io:3000/api/stats,https://tribals.io/#72TB,72tb,0 seconds,1,36
 http://qyuq.tribals.io:3000/api/stats,https://tribals.io/#QYUQ,qyuq,0 seconds,1,30
 http://gzov.tribals.io:3000/api/stats,https://tribals.io/#GZOV,gzov,0 seconds,1,30
+http://x0na.tribals.io:3000/api/stats,https://tribals.io/#X0NA,x0na,0 seconds,1,36
 http://jkwd.tribals.io:3000/api/stats,https://tribals.io/#JKWD,jkwd,0 seconds,1,30
-http://qabk.tribals.io:3000/api/stats,https://tribals.io/#QABK,qabk,0 seconds,1,12
+http://wkdg.tribals.io:3000/api/stats,https://tribals.io/#WKDG,wkdg,0 seconds,1,36
 http://n4mk.tribals.io:3000/api/stats,https://tribals.io/#N4MK,n4mk,0 seconds,1,36
-http://pffe.tribals.io:3000/api/stats,https://tribals.io/#PFFE,pffe,0 seconds,1,12
-http://wkdg.tribals.io:3000/api/stats,https://tribals.io/#WKDG,wkdg,19 second(s),0,30
-http://x0na.tribals.io:3000/api/stats,https://tribals.io/#X0NA,x0na,4 minute(s) and 50 second(s),0,30
-http://v2c0.tribals.io:3000/api/stats,https://tribals.io/#V2C0,v2c0,5 minute(s) and 36 second(s),0,30
-http://9e2g.tribals.io:3000/api/stats,https://tribals.io/#9E2G,9e2g,7 minute(s) and 29 second(s),0,24
-http://wepv.tribals.io:3000/api/stats,https://tribals.io/#WEPV,wepv,7 minute(s) and 38 second(s),0,36
-http://eb7t.tribals.io:3000/api/stats,https://tribals.io/#EB7T,eb7t,8 minute(s) and 51 second(s),0,24
-http://x8c2.tribals.io:3000/api/stats,https://tribals.io/#X8C2,x8c2,9 minute(s) and 10 second(s),0,24
-http://rkhz.tribals.io:3000/api/stats,https://tribals.io/#RKHZ,rkhz,13 minute(s) and 21 second(s),0,12
-http://gpgl.tribals.io:3000/api/stats,https://tribals.io/#GPGL,gpgl,14 minute(s) and 23 second(s),0,30
-http://d4a9.tribals.io:3000/api/stats,https://tribals.io/#D4A9,d4a9,16 minute(s) and 9 second(s),0,30
-http://8mt4.tribals.io:3000/api/stats,https://tribals.io/#8MT4,8mt4,16 minute(s) and 41 second(s),0,30
-http://srvf.tribals.io:3000/api/stats,https://tribals.io/#SRVF,srvf,16 minute(s) and 56 second(s),0,30
-http://dg2y.tribals.io:3000/api/stats,https://tribals.io/#DG2Y,dg2y,21 minute(s) and 46 second(s),0,24
-http://h41f.tribals.io:3000/api/stats,https://tribals.io/#H41F,h41f,22 minute(s) and 12 second(s),0,12
-http://zah0.tribals.io:3000/api/stats,https://tribals.io/#ZAH0,zah0,24 minute(s) and 13 second(s),0,30
-http://uqvp.tribals.io:3000/api/stats,https://tribals.io/#UQVP,uqvp,24 minute(s) and 26 second(s),0,30
-http://lh10.tribals.io:3000/api/stats,https://tribals.io/#LH10,lh10,25 minute(s) and 18 second(s),0,30
-http://ejcy.tribals.io:3000/api/stats,https://tribals.io/#EJCY,ejcy,25 minute(s) and 27 second(s),0,24
-http://98bx.tribals.io:3000/api/stats,https://tribals.io/#98BX,98bx,27 minute(s) and 48 second(s),0,24
-http://p3me.tribals.io:3000/api/stats,https://tribals.io/#P3ME,p3me,28 minute(s) and 18 second(s),0,30
-http://txt1.tribals.io:3000/api/stats,https://tribals.io/#TXT1,txt1,28 minute(s) and 57 second(s),0,30
-http://pj3r.tribals.io:3000/api/stats,https://tribals.io/#PJ3R,pj3r,30 minute(s) and 22 second(s),0,30
-http://3b5o.tribals.io:3000/api/stats,https://tribals.io/#3B5O,3b5o,31 minute(s) and 6 second(s),0,30
-http://czj0.tribals.io:3000/api/stats,https://tribals.io/#CZJ0,czj0,33 minute(s) and 31 second(s),0,30
-http://r173.tribals.io:3000/api/stats,https://tribals.io/#R173,r173,34 minute(s) and 23 second(s),0,30
-http://l34f.tribals.io:3000/api/stats,https://tribals.io/#L34F,l34f,34 minute(s) and 25 second(s),0,24
-http://gp2y.tribals.io:3000/api/stats,https://tribals.io/#GP2Y,gp2y,36 minute(s) and 34 second(s),0,30
-http://lsl5.tribals.io:3000/api/stats,https://tribals.io/#LSL5,lsl5,36 minute(s) and 53 second(s),0,36
-http://266e.tribals.io:3000/api/stats,https://tribals.io/#266E,266e,38 minute(s) and 3 second(s),0,30
-http://wbfk.tribals.io:3000/api/stats,https://tribals.io/#WBFK,wbfk,41 minute(s) and 20 second(s),0,30
-http://2k79.tribals.io:3000/api/stats,https://tribals.io/#2K79,2k79,41 minute(s) and 27 second(s),0,18
-http://qxle.tribals.io:3000/api/stats,https://tribals.io/#QXLE,qxle,43 minute(s) and 43 second(s),0,30
-http://865y.tribals.io:3000/api/stats,https://tribals.io/#865Y,865y,48 minute(s) and 30 second(s),0,24
-http://q43o.tribals.io:3000/api/stats,https://tribals.io/#Q43O,q43o,49 minute(s) and 12 second(s),0,36
-http://lr4h.tribals.io:3000/api/stats,https://tribals.io/#LR4H,lr4h,53 minute(s) and 20 second(s),0,30
-http://0ogc.tribals.io:3000/api/stats,https://tribals.io/#0OGC,0ogc,53 minute(s) and 36 second(s),0,30
-http://qqzx.tribals.io:3000/api/stats,https://tribals.io/#QQZX,qqzx,54 minute(s) and 9 second(s),0,30
-http://4cil.tribals.io:3000/api/stats,https://tribals.io/#4CIL,4cil,55 minute(s) and 19 second(s),0,30
-http://qmes.tribals.io:3000/api/stats,https://tribals.io/#QMES,qmes,55 minute(s) and 58 second(s),0,30
-http://fl8p.tribals.io:3000/api/stats,https://tribals.io/#FL8P,fl8p,56 minute(s) and 1 second(s),0,24
-http://if7r.tribals.io:3000/api/stats,https://tribals.io/#IF7R,if7r,56 minute(s) and 57 second(s),0,36
-http://6csu.tribals.io:3000/api/stats,https://tribals.io/#6CSU,6csu,58 minute(s) and 25 second(s),0,30
-http://jyiz.tribals.io:3000/api/stats,https://tribals.io/#JYIZ,jyiz,59 minute(s) and 52 second(s),0,30
-http://gm6c.tribals.io:3000/api/stats,https://tribals.io/#GM6C,gm6c,"1 hour(s), 4 minute(s) and 33 second(s)",0,30
-http://ezj1.tribals.io:3000/api/stats,https://tribals.io/#EZJ1,ezj1,"1 hour(s), 6 minute(s) and 30 second(s)",0,30
-http://lqk4.tribals.io:3000/api/stats,https://tribals.io/#LQK4,lqk4,"1 hour(s), 7 minute(s) and 46 second(s)",0,36
-http://n0bv.tribals.io:3000/api/stats,https://tribals.io/#N0BV,n0bv,"1 hour(s), 10 minute(s) and 54 second(s)",0,30
-http://jocv.tribals.io:3000/api/stats,https://tribals.io/#JOCV,jocv,"1 hour(s), 11 minute(s) and 49 second(s)",0,24
-http://dl2c.tribals.io:3000/api/stats,https://tribals.io/#DL2C,dl2c,"1 hour(s), 13 minute(s) and 19 second(s)",0,36
-http://5dc6.tribals.io:3000/api/stats,https://tribals.io/#5DC6,5dc6,"1 hour(s), 18 minute(s) and 9 second(s)",0,30
-http://aocc.tribals.io:3000/api/stats,https://tribals.io/#AOCC,aocc,"1 hour(s), 19 minute(s) and 34 second(s)",0,36
-http://2cmf.tribals.io:3000/api/stats,https://tribals.io/#2CMF,2cmf,"1 hour(s), 21 minute(s) and 8 second(s)",0,30
-http://811z.tribals.io:3000/api/stats,https://tribals.io/#811Z,811z,"1 hour(s), 24 minute(s) and 24 second(s)",0,30
-http://k0bu.tribals.io:3000/api/stats,https://tribals.io/#K0BU,k0bu,"1 hour(s), 29 minute(s) and 4 second(s)",0,30
-http://5dlu.tribals.io:3000/api/stats,https://tribals.io/#5DLU,5dlu,"1 hour(s), 30 minute(s) and 29 second(s)",0,30
-http://4huq.tribals.io:3000/api/stats,https://tribals.io/#4HUQ,4huq,"1 hour(s), 31 minute(s) and 36 second(s)",0,36
-http://g53a.tribals.io:3000/api/stats,https://tribals.io/#G53A,g53a,"1 hour(s), 32 minute(s) and 40 second(s)",0,36
-http://ndu4.tribals.io:3000/api/stats,https://tribals.io/#NDU4,ndu4,"1 hour(s), 33 minute(s) and 29 second(s)",0,30
-http://g4jf.tribals.io:3000/api/stats,https://tribals.io/#G4JF,g4jf,"1 hour(s), 35 minute(s) and 57 second(s)",0,30
-http://m64t.tribals.io:3000/api/stats,https://tribals.io/#M64T,m64t,"1 hour(s), 42 minute(s) and 5 second(s)",0,30
-http://2sok.tribals.io:3000/api/stats,https://tribals.io/#2SOK,2sok,"1 hour(s), 44 minute(s) and 30 second(s)",0,30
+http://v2c0.tribals.io:3000/api/stats,https://tribals.io/#V2C0,v2c0,38 second(s),0,30
+http://9e2g.tribals.io:3000/api/stats,https://tribals.io/#9E2G,9e2g,2 minute(s) and 30 second(s),0,24
+http://wepv.tribals.io:3000/api/stats,https://tribals.io/#WEPV,wepv,2 minute(s) and 39 second(s),0,36
+http://eb7t.tribals.io:3000/api/stats,https://tribals.io/#EB7T,eb7t,3 minute(s) and 51 second(s),0,24
+http://x8c2.tribals.io:3000/api/stats,https://tribals.io/#X8C2,x8c2,4 minute(s) and 10 second(s),0,24
+http://rkhz.tribals.io:3000/api/stats,https://tribals.io/#RKHZ,rkhz,8 minute(s) and 21 second(s),0,12
+http://gpgl.tribals.io:3000/api/stats,https://tribals.io/#GPGL,gpgl,9 minute(s) and 23 second(s),0,30
+http://d4a9.tribals.io:3000/api/stats,https://tribals.io/#D4A9,d4a9,11 minute(s) and 9 second(s),0,30
+http://8mt4.tribals.io:3000/api/stats,https://tribals.io/#8MT4,8mt4,11 minute(s) and 42 second(s),0,30
+http://srvf.tribals.io:3000/api/stats,https://tribals.io/#SRVF,srvf,11 minute(s) and 56 second(s),0,30
+http://dg2y.tribals.io:3000/api/stats,https://tribals.io/#DG2Y,dg2y,16 minute(s) and 46 second(s),0,24
+http://h41f.tribals.io:3000/api/stats,https://tribals.io/#H41F,h41f,17 minute(s) and 12 second(s),0,12
+http://zah0.tribals.io:3000/api/stats,https://tribals.io/#ZAH0,zah0,19 minute(s) and 14 second(s),0,30
+http://uqvp.tribals.io:3000/api/stats,https://tribals.io/#UQVP,uqvp,19 minute(s) and 26 second(s),0,30
+http://lh10.tribals.io:3000/api/stats,https://tribals.io/#LH10,lh10,20 minute(s) and 18 second(s),0,30
+http://ejcy.tribals.io:3000/api/stats,https://tribals.io/#EJCY,ejcy,20 minute(s) and 27 second(s),0,24
+http://98bx.tribals.io:3000/api/stats,https://tribals.io/#98BX,98bx,22 minute(s) and 49 second(s),0,24
+http://p3me.tribals.io:3000/api/stats,https://tribals.io/#P3ME,p3me,23 minute(s) and 18 second(s),0,30
+http://txt1.tribals.io:3000/api/stats,https://tribals.io/#TXT1,txt1,23 minute(s) and 58 second(s),0,30
+http://pj3r.tribals.io:3000/api/stats,https://tribals.io/#PJ3R,pj3r,25 minute(s) and 23 second(s),0,30
+http://3b5o.tribals.io:3000/api/stats,https://tribals.io/#3B5O,3b5o,26 minute(s) and 7 second(s),0,30
+http://czj0.tribals.io:3000/api/stats,https://tribals.io/#CZJ0,czj0,28 minute(s) and 32 second(s),0,30
+http://r173.tribals.io:3000/api/stats,https://tribals.io/#R173,r173,29 minute(s) and 23 second(s),0,30
+http://l34f.tribals.io:3000/api/stats,https://tribals.io/#L34F,l34f,29 minute(s) and 25 second(s),0,24
+http://gp2y.tribals.io:3000/api/stats,https://tribals.io/#GP2Y,gp2y,31 minute(s) and 35 second(s),0,30
+http://lsl5.tribals.io:3000/api/stats,https://tribals.io/#LSL5,lsl5,31 minute(s) and 53 second(s),0,36
+http://266e.tribals.io:3000/api/stats,https://tribals.io/#266E,266e,33 minute(s) and 3 second(s),0,30
+http://wbfk.tribals.io:3000/api/stats,https://tribals.io/#WBFK,wbfk,36 minute(s) and 21 second(s),0,30
+http://2k79.tribals.io:3000/api/stats,https://tribals.io/#2K79,2k79,36 minute(s) and 27 second(s),0,18
+http://qxle.tribals.io:3000/api/stats,https://tribals.io/#QXLE,qxle,38 minute(s) and 43 second(s),0,30
+http://865y.tribals.io:3000/api/stats,https://tribals.io/#865Y,865y,43 minute(s) and 30 second(s),0,24
+http://q43o.tribals.io:3000/api/stats,https://tribals.io/#Q43O,q43o,44 minute(s) and 12 second(s),0,36
+http://lr4h.tribals.io:3000/api/stats,https://tribals.io/#LR4H,lr4h,48 minute(s) and 21 second(s),0,30
+http://0ogc.tribals.io:3000/api/stats,https://tribals.io/#0OGC,0ogc,48 minute(s) and 39 second(s),0,30
+http://qqzx.tribals.io:3000/api/stats,https://tribals.io/#QQZX,qqzx,49 minute(s) and 10 second(s),0,30
+http://4cil.tribals.io:3000/api/stats,https://tribals.io/#4CIL,4cil,50 minute(s) and 20 second(s),0,30
+http://qmes.tribals.io:3000/api/stats,https://tribals.io/#QMES,qmes,50 minute(s) and 58 second(s),0,30
+http://fl8p.tribals.io:3000/api/stats,https://tribals.io/#FL8P,fl8p,51 minute(s) and 1 second(s),0,24
+http://if7r.tribals.io:3000/api/stats,https://tribals.io/#IF7R,if7r,51 minute(s) and 57 second(s),0,36
+http://6csu.tribals.io:3000/api/stats,https://tribals.io/#6CSU,6csu,53 minute(s) and 25 second(s),0,30
+http://jyiz.tribals.io:3000/api/stats,https://tribals.io/#JYIZ,jyiz,54 minute(s) and 52 second(s),0,30
+http://gm6c.tribals.io:3000/api/stats,https://tribals.io/#GM6C,gm6c,59 minute(s) and 33 second(s),0,30
+http://ezj1.tribals.io:3000/api/stats,https://tribals.io/#EZJ1,ezj1,"1 hour(s), 1 minute(s) and 30 second(s)",0,30
+http://lqk4.tribals.io:3000/api/stats,https://tribals.io/#LQK4,lqk4,"1 hour(s), 2 minute(s) and 46 second(s)",0,36
+http://n0bv.tribals.io:3000/api/stats,https://tribals.io/#N0BV,n0bv,"1 hour(s), 5 minute(s) and 55 second(s)",0,30
+http://jocv.tribals.io:3000/api/stats,https://tribals.io/#JOCV,jocv,"1 hour(s), 6 minute(s) and 51 second(s)",0,24
+http://dl2c.tribals.io:3000/api/stats,https://tribals.io/#DL2C,dl2c,"1 hour(s), 8 minute(s) and 19 second(s)",0,36
+http://5dc6.tribals.io:3000/api/stats,https://tribals.io/#5DC6,5dc6,"1 hour(s), 13 minute(s) and 9 second(s)",0,30
+http://aocc.tribals.io:3000/api/stats,https://tribals.io/#AOCC,aocc,"1 hour(s), 14 minute(s) and 34 second(s)",0,36
+http://2cmf.tribals.io:3000/api/stats,https://tribals.io/#2CMF,2cmf,"1 hour(s), 16 minute(s) and 8 second(s)",0,30
+http://811z.tribals.io:3000/api/stats,https://tribals.io/#811Z,811z,"1 hour(s), 19 minute(s) and 24 second(s)",0,30
+http://qabk.tribals.io:3000/api/stats,https://tribals.io/#QABK,qabk,"1 hour(s), 20 minute(s) and 53 second(s)",0,12
+http://k0bu.tribals.io:3000/api/stats,https://tribals.io/#K0BU,k0bu,"1 hour(s), 24 minute(s) and 4 second(s)",0,30
+http://5dlu.tribals.io:3000/api/stats,https://tribals.io/#5DLU,5dlu,"1 hour(s), 25 minute(s) and 30 second(s)",0,30
+http://4huq.tribals.io:3000/api/stats,https://tribals.io/#4HUQ,4huq,"1 hour(s), 26 minute(s) and 37 second(s)",0,36
+http://g53a.tribals.io:3000/api/stats,https://tribals.io/#G53A,g53a,"1 hour(s), 27 minute(s) and 41 second(s)",0,36
+http://ndu4.tribals.io:3000/api/stats,https://tribals.io/#NDU4,ndu4,"1 hour(s), 28 minute(s) and 29 second(s)",0,30
+http://g4jf.tribals.io:3000/api/stats,https://tribals.io/#G4JF,g4jf,"1 hour(s), 30 minute(s) and 58 second(s)",0,30
+http://m64t.tribals.io:3000/api/stats,https://tribals.io/#M64T,m64t,"1 hour(s), 37 minute(s) and 5 second(s)",0,30
+http://2sok.tribals.io:3000/api/stats,https://tribals.io/#2SOK,2sok,"1 hour(s), 39 minute(s) and 30 second(s)",0,30
