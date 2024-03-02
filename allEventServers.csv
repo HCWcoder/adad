@@ -1,98 +1,99 @@
-stats,link,players,next_event_time,totalEvents,totalNpcs,eventCounter,cpu,spawnLocRad_10,spawnLocRad_5,spawned,barrelIssue,shipExists
-"{""kills"": 361, ""playersJoined"": 634}",https://tribals.io/#GM6C,21,0 seconds,1,18,3,19.79,3,4,True,False,True
-"{""kills"": 410, ""playersJoined"": 724}",https://tribals.io/#R173,19,0 seconds,1,48,8,23.47,1,1,True,False,True
-"{""kills"": 96, ""playersJoined"": 335}",https://tribals.io/#M64T,7,0 seconds,1,54,9,15.15,3,3,True,False,True
-"{""kills"": 203, ""playersJoined"": 435}",https://tribals.io/#Z9Q9,8,0 seconds,1,60,10,14.58,6,6,True,False,True
-"{""kills"": 193, ""playersJoined"": 691}",https://tribals.io/#5DC6,8,0 seconds,1,48,8,21.87,1,4,True,False,True
-"{""kills"": 344, ""playersJoined"": 993}",https://tribals.io/#RKHZ,11,0 seconds,1,60,10,17.17,5,5,True,False,True
-"{""kills"": 542, ""playersJoined"": 1264}",https://tribals.io/#72TB,13,0 seconds,1,54,9,14.29,4,4,True,False,True
-"{""kills"": 372, ""playersJoined"": 1054}",https://tribals.io/#98BX,10,0 seconds,1,54,9,24.24,7,7,True,False,True
-"{""kills"": 150, ""playersJoined"": 629}",https://tribals.io/#9E2G,4,0 seconds,1,60,10,22.11,5,5,True,False,True
-"{""kills"": 128, ""playersJoined"": 414}",https://tribals.io/#D4A9,7,0 seconds,1,54,9,9.09,7,7,True,False,True
-"{""kills"": 186, ""playersJoined"": 677}",https://tribals.io/#4HUQ,8,0 seconds,1,54,9,17.35,5,5,True,False,True
-"{""kills"": 179, ""playersJoined"": 338}",https://tribals.io/#EZJ1,4,0 seconds,1,36,6,5.1,7,7,True,False,True
-"{""kills"": 163, ""playersJoined"": 515}",https://tribals.io/#G53A,13,0 seconds,1,54,9,17.35,0,0,True,False,True
-"{""kills"": 115, ""playersJoined"": 367}",https://tribals.io/#811Z,11,0 seconds,1,54,9,30.93,6,7,True,False,True
-"{""kills"": 73, ""playersJoined"": 379}",https://tribals.io/#LR4H,5,0 seconds,1,60,10,17.14,5,6,True,False,True
-"{""kills"": 120, ""playersJoined"": 329}",https://tribals.io/#G5UU,9,0 seconds,1,54,9,16.84,0,1,True,False,True
-"{""kills"": 55, ""playersJoined"": 310}",https://tribals.io/#QQZX,8,0 seconds,1,54,9,10.31,4,4,True,False,True
-"{""kills"": 154, ""playersJoined"": 389}",https://tribals.io/#PJ3R,4,0 seconds,1,54,9,9.9,2,2,True,False,True
-"{""kills"": 47, ""playersJoined"": 298}",https://tribals.io/#9FPH,7,0 seconds,1,54,9,37,3,5,True,False,True
-"{""kills"": 138, ""playersJoined"": 585}",https://tribals.io/#KYTC,2,0 seconds,1,60,10,50.96,5,5,True,False,True
-"{""kills"": 447, ""playersJoined"": 1293}",https://tribals.io/#GP2Y,6,0 seconds,1,60,10,13.86,4,5,True,False,True
-"{""kills"": 56, ""playersJoined"": 298}",https://tribals.io/#FL8P,6,1 minute(s) and 4 second(s),0,54,9,20,4,5,False,False,True
-"{""kills"": 745, ""playersJoined"": 1336}",https://tribals.io/#PUGY,12,3 minute(s) and 47 second(s),0,48,8,19.61,3,4,False,False,True
-"{""kills"": 139, ""playersJoined"": 332}",https://tribals.io/#P3ME,8,5 minute(s) and 57 second(s),0,48,8,11.34,5,6,False,False,True
-"{""kills"": 224, ""playersJoined"": 678}",https://tribals.io/#X0NA,15,8 minute(s) and 26 second(s),0,54,9,22,4,5,False,False,True
-"{""kills"": 156, ""playersJoined"": 424}",https://tribals.io/#0P95,12,9 minute(s) and 43 second(s),0,54,9,96.06,2,2,False,False,True
-"{""kills"": 158, ""playersJoined"": 414}",https://tribals.io/#QMES,4,16 minute(s) and 48 second(s),0,60,10,12.62,5,5,False,False,True
-"{""kills"": 181, ""playersJoined"": 480}",https://tribals.io/#6M42,8,18 minute(s) and 40 second(s),0,54,9,8.16,6,7,False,False,True
-"{""kills"": 148, ""playersJoined"": 625}",https://tribals.io/#QYUQ,20,19 minute(s) and 22 second(s),0,48,8,25.49,3,4,False,False,True
-"{""kills"": 102, ""playersJoined"": 408}",https://tribals.io/#QXLE,8,20 minute(s) and 4 second(s),0,54,9,10.78,7,7,False,False,True
-"{""kills"": 182, ""playersJoined"": 423}",https://tribals.io/#LF1N,8,20 minute(s) and 23 second(s),0,54,9,31.25,2,3,False,False,True
-"{""kills"": 201, ""playersJoined"": 643}",https://tribals.io/#8P7U,3,21 minute(s) and 21 second(s),0,48,8,16.5,3,3,False,False,True
-"{""kills"": 101, ""playersJoined"": 281}",https://tribals.io/#3B5O,3,23 minute(s) and 24 second(s),0,48,8,21.43,2,2,False,False,True
-"{""kills"": 37, ""playersJoined"": 366}",https://tribals.io/#CZJ0,2,24 minute(s) and 28 second(s),0,48,8,15.15,4,4,False,False,True
-"{""kills"": 182, ""playersJoined"": 657}",https://tribals.io/#DG2Y,15,29 minute(s) and 33 second(s),0,54,9,13.13,7,7,False,False,True
-"{""kills"": 771, ""playersJoined"": 1418}",https://tribals.io/#JOCV,2,30 minute(s) and 51 second(s),0,54,9,5,5,5,False,False,True
-"{""kills"": 65, ""playersJoined"": 307}",https://tribals.io/#TQC2,3,31 minute(s) and 38 second(s),0,54,9,17,5,6,False,False,True
-"{""kills"": 314, ""playersJoined"": 716}",https://tribals.io/#KVJ1,14,33 minute(s) and 6 second(s),0,54,9,61.19,5,5,False,False,True
-"{""kills"": 128, ""playersJoined"": 349}",https://tribals.io/#Q43O,8,33 minute(s) and 10 second(s),0,48,8,4.12,7,7,False,False,True
-"{""kills"": 224, ""playersJoined"": 552}",https://tribals.io/#GZOV,18,33 minute(s) and 22 second(s),0,48,8,14.29,4,5,False,False,True
-"{""kills"": 349, ""playersJoined"": 912}",https://tribals.io/#865Y,9,34 minute(s) and 51 second(s),0,54,9,27.08,4,6,False,False,True
-"{""kills"": 350, ""playersJoined"": 982}",https://tribals.io/#N4MK,4,35 minute(s) and 12 second(s),0,48,8,3.03,3,4,False,False,True
-"{""kills"": 299, ""playersJoined"": 939}",https://tribals.io/#V2C0,6,35 minute(s) and 49 second(s),0,48,8,9.47,3,4,False,False,True
-"{""kills"": 474, ""playersJoined"": 1245}",https://tribals.io/#K2WN,18,38 minute(s) and 4 second(s),0,48,8,63.33,2,2,False,False,True
-"{""kills"": 214, ""playersJoined"": 425}",https://tribals.io/#G4JF,5,39 minute(s) and 23 second(s),0,42,7,17.35,2,2,False,False,True
-"{""kills"": 220, ""playersJoined"": 707}",https://tribals.io/#GRDZ,3,40 minute(s) and 11 second(s),0,54,9,23,7,7,False,False,True
-"{""kills"": 110, ""playersJoined"": 454}",https://tribals.io/#D0WM,8,41 minute(s) and 26 second(s),0,54,9,23.71,6,6,False,False,True
-"{""kills"": 115, ""playersJoined"": 354}",https://tribals.io/#AYYT,8,42 minute(s) and 26 second(s),0,48,8,6.25,6,6,False,False,True
-"{""kills"": 79, ""playersJoined"": 397}",https://tribals.io/#H41F,3,42 minute(s) and 58 second(s),0,48,8,11.11,2,3,False,False,True
-"{""kills"": 624, ""playersJoined"": 1527}",https://tribals.io/#BPPO,9,43 minute(s) and 3 second(s),0,48,8,13.13,1,2,False,False,True
-"{""kills"": 741, ""playersJoined"": 1458}",https://tribals.io/#JU07,12,43 minute(s) and 20 second(s),0,54,9,25.74,6,6,False,False,True
-"{""kills"": 616, ""playersJoined"": 1458}",https://tribals.io/#2K79,3,43 minute(s) and 21 second(s),0,54,9,19,6,6,False,False,True
-"{""kills"": 53, ""playersJoined"": 249}",https://tribals.io/#SRVF,5,45 minute(s) and 38 second(s),0,48,8,58.42,3,4,False,False,True
-"{""kills"": 44, ""playersJoined"": 312}",https://tribals.io/#JYIZ,7,46 minute(s) and 59 second(s),0,60,10,31,5,5,False,False,True
-"{""kills"": 348, ""playersJoined"": 1131}",https://tribals.io/#4VB0,12,47 minute(s) and 19 second(s),0,60,10,18,5,5,False,False,True
-"{""kills"": 136, ""playersJoined"": 367}",https://tribals.io/#LQK4,9,48 minute(s) and 20 second(s),0,54,9,16,6,6,False,False,True
-"{""kills"": 267, ""playersJoined"": 781}",https://tribals.io/#157V,10,48 minute(s) and 54 second(s),0,54,9,38.95,2,3,False,False,True
-"{""kills"": 124, ""playersJoined"": 434}",https://tribals.io/#UQVP,6,49 minute(s) and 15 second(s),0,54,9,55.56,4,5,False,False,True
-"{""kills"": 66, ""playersJoined"": 354}",https://tribals.io/#IF7R,2,49 minute(s) and 30 second(s),0,60,10,22.55,7,7,False,False,True
-"{""kills"": 86, ""playersJoined"": 475}",https://tribals.io/#2CMF,7,51 minute(s) and 2 second(s),0,54,9,13.4,6,6,False,False,True
-"{""kills"": 102, ""playersJoined"": 345}",https://tribals.io/#0OGC,6,51 minute(s) and 21 second(s),0,54,9,14.29,5,6,False,False,True
-"{""kills"": 51, ""playersJoined"": 358}",https://tribals.io/#GPGL,8,51 minute(s) and 45 second(s),0,54,9,30,6,7,False,False,True
-"{""kills"": 99, ""playersJoined"": 418}",https://tribals.io/#WEPV,6,54 minute(s) and 3 second(s),0,54,9,7.07,6,6,False,False,True
-"{""kills"": 202, ""playersJoined"": 671}",https://tribals.io/#2SOK,9,54 minute(s) and 18 second(s),0,48,8,21,4,4,False,False,True
-"{""kills"": 47, ""playersJoined"": 325}",https://tribals.io/#266E,4,54 minute(s) and 31 second(s),0,48,8,11,8,8,False,False,True
-"{""kills"": 121, ""playersJoined"": 379}",https://tribals.io/#NDU4,14,56 minute(s) and 29 second(s),0,60,10,25,5,5,False,False,True
-"{""kills"": 137, ""playersJoined"": 444}",https://tribals.io/#AOCC,3,"1 hour(s), 2 minute(s) and 28 second(s)",0,48,8,19.39,7,7,False,False,True
-"{""kills"": 142, ""playersJoined"": 378}",https://tribals.io/#GM5B,7,"1 hour(s), 3 minute(s) and 4 second(s)",0,60,10,22.22,5,6,False,False,True
-"{""kills"": 292, ""playersJoined"": 657}",https://tribals.io/#ORTU,5,"1 hour(s), 4 minute(s) and 10 second(s)",0,54,9,19.8,5,6,False,False,True
-"{""kills"": 743, ""playersJoined"": 1551}",https://tribals.io/#FOP4,9,"1 hour(s), 4 minute(s) and 35 second(s)",0,48,8,18.56,1,1,False,False,True
-"{""kills"": 43, ""playersJoined"": 240}",https://tribals.io/#QABK,3,"1 hour(s), 4 minute(s) and 46 second(s)",0,54,9,6,6,7,False,False,True
-"{""kills"": 74, ""playersJoined"": 258}",https://tribals.io/#8MT4,5,"1 hour(s), 6 minute(s) and 56 second(s)",0,54,9,4.12,4,6,False,False,True
-"{""kills"": 291, ""playersJoined"": 785}",https://tribals.io/#3STY,4,"1 hour(s), 8 minute(s) and 54 second(s)",0,48,8,7.07,6,6,False,False,True
-"{""kills"": 51, ""playersJoined"": 327}",https://tribals.io/#6CSU,4,"1 hour(s), 9 minute(s) and 33 second(s)",0,60,10,25.93,5,5,False,False,True
-"{""kills"": 65, ""playersJoined"": 373}",https://tribals.io/#H1XV,5,"1 hour(s), 10 minute(s) and 3 second(s)",0,54,9,15.53,6,6,False,False,True
-"{""kills"": 244, ""playersJoined"": 806}",https://tribals.io/#EJCY,17,"1 hour(s), 10 minute(s) and 51 second(s)",0,48,8,15.31,4,5,False,False,True
-"{""kills"": 275, ""playersJoined"": 1033}",https://tribals.io/#X8C2,14,"1 hour(s), 12 minute(s) and 58 second(s)",0,48,8,23.47,7,7,False,False,True
-"{""kills"": 176, ""playersJoined"": 619}",https://tribals.io/#7POS,16,"1 hour(s), 14 minute(s) and 15 second(s)",0,48,8,32.32,5,6,False,False,True
-"{""kills"": 203, ""playersJoined"": 585}",https://tribals.io/#EB7T,10,"1 hour(s), 16 minute(s) and 30 second(s)",0,54,9,31.68,2,3,False,False,True
-"{""kills"": 120, ""playersJoined"": 406}",https://tribals.io/#LSL5,3,"1 hour(s), 18 minute(s) and 8 second(s)",0,54,9,13.73,5,5,False,False,True
-"{""kills"": 172, ""playersJoined"": 458}",https://tribals.io/#M5AX,3,"1 hour(s), 23 minute(s) and 2 second(s)",0,54,9,9.9,4,5,False,False,True
-"{""kills"": 88, ""playersJoined"": 318}",https://tribals.io/#NYNY,3,"1 hour(s), 23 minute(s) and 26 second(s)",0,54,9,9,2,2,False,False,True
-"{""kills"": 136, ""playersJoined"": 366}",https://tribals.io/#WKDG,7,"1 hour(s), 24 minute(s) and 36 second(s)",0,54,9,16.33,7,7,False,False,True
-"{""kills"": 15, ""playersJoined"": 67}",https://tribals.io/#PFFE,31,"1 hour(s), 26 minute(s) and 48 second(s)",0,6,1,93.81,3,3,False,False,True
-"{""kills"": 79, ""playersJoined"": 286}",https://tribals.io/#N0BV,5,"1 hour(s), 27 minute(s) and 57 second(s)",0,48,8,15.31,2,2,False,False,True
-"{""kills"": 545, ""playersJoined"": 1204}",https://tribals.io/#TXT1,11,"1 hour(s), 29 minute(s) and 45 second(s)",0,54,9,38.38,5,5,False,False,True
-"{""kills"": 68, ""playersJoined"": 339}",https://tribals.io/#WBFK,3,"1 hour(s), 31 minute(s) and 29 second(s)",0,54,9,7.07,4,5,False,False,True
-"{""kills"": 106, ""playersJoined"": 368}",https://tribals.io/#4CIL,8,"1 hour(s), 32 minute(s) and 4 second(s)",0,54,9,15.31,4,4,False,False,True
-"{""kills"": 340, ""playersJoined"": 1161}",https://tribals.io/#5DLU,15,"1 hour(s), 36 minute(s) and 31 second(s)",0,54,9,67.01,6,6,False,False,True
-"{""kills"": 379, ""playersJoined"": 951}",https://tribals.io/#3PC2,6,"1 hour(s), 36 minute(s) and 48 second(s)",0,54,9,67.92,5,5,False,False,True
-"{""kills"": 54, ""playersJoined"": 292}",https://tribals.io/#L34F,5,"1 hour(s), 38 minute(s) and 31 second(s)",0,54,9,64,5,5,False,False,True
-"{""kills"": 283, ""playersJoined"": 444}",https://tribals.io/#3TTV,10,"1 hour(s), 42 minute(s) and 6 second(s)",0,48,8,49.51,1,1,False,False,True
-"{""kills"": 35, ""playersJoined"": 331}",https://tribals.io/#K0BU,6,"1 hour(s), 42 minute(s) and 11 second(s)",0,60,10,17.17,3,4,False,False,True
-"{""kills"": 67, ""playersJoined"": 206}",https://tribals.io/#LH10,12,"1 hour(s), 42 minute(s) and 47 second(s)",0,6,1,48.45,1,2,False,False,True
-"{""kills"": 150, ""playersJoined"": 673}",https://tribals.io/#GB4V,2,"1 hour(s), 43 minute(s) and 5 second(s)",0,36,6,6,1,3,False,False,True
-"{""kills"": 32, ""playersJoined"": 287}",https://tribals.io/#JKWD,4,"1 hour(s), 46 minute(s) and 45 second(s)",0,48,8,15.84,3,5,False,False,True
-"{""kills"": 12, ""playersJoined"": 141}",https://tribals.io/#ZAH0,5,"1 hour(s), 52 minute(s) and 34 second(s)",0,18,3,25.51,7,7,False,False,True
+link,stats,players,spawned,next_event_time,totalEvents,eventCounter,totalNpcs,cpu,spawnLocRad_10,spawnLocRad_5,barrelIssue,shipExists
+https://tribals.io/#GM6C,"{""kills"": 364, ""playersJoined"": 636}",20,True,0 seconds,1,3,18,20.83,3,4,False,True
+https://tribals.io/#M64T,"{""kills"": 96, ""playersJoined"": 336}",8,True,0 seconds,1,9,54,25.47,3,3,False,True
+https://tribals.io/#Z9Q9,"{""kills"": 204, ""playersJoined"": 438}",8,True,0 seconds,1,10,60,11.22,6,6,False,True
+https://tribals.io/#RKHZ,"{""kills"": 344, ""playersJoined"": 993}",9,True,0 seconds,1,10,60,15.15,6,6,False,True
+https://tribals.io/#5DC6,"{""kills"": 194, ""playersJoined"": 691}",7,True,0 seconds,1,8,48,20,2,5,False,True
+https://tribals.io/#72TB,"{""kills"": 544, ""playersJoined"": 1275}",18,True,0 seconds,1,9,54,18.56,4,4,False,True
+https://tribals.io/#FL8P,"{""kills"": 56, ""playersJoined"": 300}",7,True,0 seconds,1,10,60,28.71,3,4,False,True
+https://tribals.io/#98BX,"{""kills"": 372, ""playersJoined"": 1055}",9,True,0 seconds,1,9,54,20,7,7,False,True
+https://tribals.io/#D4A9,"{""kills"": 129, ""playersJoined"": 414}",7,True,0 seconds,1,9,54,10,6,6,False,True
+https://tribals.io/#4HUQ,"{""kills"": 187, ""playersJoined"": 679}",9,True,0 seconds,1,9,54,19.39,5,5,False,True
+https://tribals.io/#EZJ1,"{""kills"": 179, ""playersJoined"": 339}",5,True,0 seconds,1,6,36,6,7,7,False,True
+https://tribals.io/#811Z,"{""kills"": 117, ""playersJoined"": 369}",11,True,0 seconds,1,9,54,25,6,7,False,True
+https://tribals.io/#LR4H,"{""kills"": 73, ""playersJoined"": 380}",5,True,0 seconds,1,10,60,9.18,5,6,False,True
+https://tribals.io/#G5UU,"{""kills"": 123, ""playersJoined"": 329}",6,True,0 seconds,1,9,54,9.37,0,1,False,True
+https://tribals.io/#PJ3R,"{""kills"": 154, ""playersJoined"": 389}",4,True,0 seconds,1,9,54,10.78,2,2,False,True
+https://tribals.io/#QQZX,"{""kills"": 55, ""playersJoined"": 310}",7,True,0 seconds,1,9,54,17,4,4,False,True
+https://tribals.io/#9FPH,"{""kills"": 47, ""playersJoined"": 298}",6,True,0 seconds,1,9,54,65,3,5,False,True
+https://tribals.io/#GP2Y,"{""kills"": 447, ""playersJoined"": 1293}",4,True,0 seconds,1,10,60,26.26,4,5,False,True
+https://tribals.io/#KYTC,"{""kills"": 138, ""playersJoined"": 587}",4,True,0 seconds,1,10,60,33.66,5,5,False,True
+https://tribals.io/#PUGY,"{""kills"": 746, ""playersJoined"": 1338}",12,False,1 minute(s) and 34 second(s),0,8,48,22.22,3,4,False,True
+https://tribals.io/#P3ME,"{""kills"": 139, ""playersJoined"": 332}",8,False,3 minute(s) and 45 second(s),0,8,48,21.43,5,6,False,True
+https://tribals.io/#X0NA,"{""kills"": 227, ""playersJoined"": 680}",15,False,6 minute(s) and 14 second(s),0,9,54,19.39,4,5,False,True
+https://tribals.io/#0P95,"{""kills"": 156, ""playersJoined"": 427}",13,False,7 minute(s) and 31 second(s),0,9,54,46.32,2,2,False,True
+https://tribals.io/#QMES,"{""kills"": 158, ""playersJoined"": 414}",3,False,14 minute(s) and 36 second(s),0,10,60,8.16,5,5,False,True
+https://tribals.io/#6M42,"{""kills"": 181, ""playersJoined"": 480}",8,False,16 minute(s) and 27 second(s),0,9,54,13.59,6,7,False,True
+https://tribals.io/#QYUQ,"{""kills"": 148, ""playersJoined"": 625}",18,False,17 minute(s) and 10 second(s),0,8,48,23.23,3,3,False,True
+https://tribals.io/#QXLE,"{""kills"": 102, ""playersJoined"": 409}",6,False,17 minute(s) and 52 second(s),0,9,54,9.09,7,7,False,True
+https://tribals.io/#LF1N,"{""kills"": 183, ""playersJoined"": 426}",8,False,18 minute(s) and 10 second(s),0,9,54,65,2,3,False,True
+https://tribals.io/#8P7U,"{""kills"": 201, ""playersJoined"": 643}",3,False,19 minute(s) and 8 second(s),0,8,48,4.08,3,3,False,True
+https://tribals.io/#3B5O,"{""kills"": 101, ""playersJoined"": 283}",3,False,21 minute(s) and 11 second(s),0,8,48,12,2,2,False,True
+https://tribals.io/#CZJ0,"{""kills"": 37, ""playersJoined"": 367}",3,False,22 minute(s) and 14 second(s),0,8,48,6.86,4,4,False,True
+https://tribals.io/#DG2Y,"{""kills"": 182, ""playersJoined"": 663}",13,False,27 minute(s) and 21 second(s),0,9,54,28.43,7,7,False,True
+https://tribals.io/#JOCV,"{""kills"": 771, ""playersJoined"": 1419}",3,False,28 minute(s) and 39 second(s),0,9,54,10.2,5,5,False,True
+https://tribals.io/#TQC2,"{""kills"": 65, ""playersJoined"": 307}",3,False,29 minute(s) and 25 second(s),0,9,54,25.51,5,6,False,True
+https://tribals.io/#KVJ1,"{""kills"": 314, ""playersJoined"": 717}",15,False,30 minute(s) and 53 second(s),0,9,54,34.86,5,5,False,True
+https://tribals.io/#Q43O,"{""kills"": 128, ""playersJoined"": 349}",5,False,30 minute(s) and 57 second(s),0,8,48,18.37,7,7,False,True
+https://tribals.io/#DL2C,"{""kills"": 280, ""playersJoined"": 452}",5,False,31 minute(s) and 2 second(s),0,9,54,18,7,7,False,True
+https://tribals.io/#GZOV,"{""kills"": 226, ""playersJoined"": 560}",20,False,31 minute(s) and 9 second(s),0,8,48,17.53,4,5,False,True
+https://tribals.io/#865Y,"{""kills"": 349, ""playersJoined"": 913}",10,False,32 minute(s) and 39 second(s),0,9,54,23.47,4,6,False,True
+https://tribals.io/#N4MK,"{""kills"": 350, ""playersJoined"": 982}",3,False,32 minute(s) and 59 second(s),0,8,48,15.69,3,4,False,True
+https://tribals.io/#V2C0,"{""kills"": 299, ""playersJoined"": 939}",5,False,33 minute(s) and 35 second(s),0,8,48,9.37,3,4,False,True
+https://tribals.io/#K2WN,"{""kills"": 475, ""playersJoined"": 1247}",15,False,35 minute(s) and 49 second(s),0,8,48,80.58,2,2,False,True
+https://tribals.io/#G4JF,"{""kills"": 215, ""playersJoined"": 425}",4,False,37 minute(s) and 11 second(s),0,7,42,18.37,3,3,False,True
+https://tribals.io/#GRDZ,"{""kills"": 220, ""playersJoined"": 707}",3,False,37 minute(s) and 58 second(s),0,9,54,19.23,7,7,False,True
+https://tribals.io/#D0WM,"{""kills"": 110, ""playersJoined"": 455}",9,False,39 minute(s) and 14 second(s),0,9,54,43.69,6,6,False,True
+https://tribals.io/#AYYT,"{""kills"": 115, ""playersJoined"": 354}",7,False,40 minute(s) and 14 second(s),0,8,48,19.8,6,6,False,True
+https://tribals.io/#H41F,"{""kills"": 79, ""playersJoined"": 398}",3,False,40 minute(s) and 46 second(s),0,8,48,21.57,2,3,False,True
+https://tribals.io/#BPPO,"{""kills"": 624, ""playersJoined"": 1528}",7,False,40 minute(s) and 52 second(s),0,8,48,26.21,1,2,False,True
+https://tribals.io/#2K79,"{""kills"": 616, ""playersJoined"": 1458}",3,False,41 minute(s) and 7 second(s),0,9,54,17.71,6,6,False,True
+https://tribals.io/#JU07,"{""kills"": 743, ""playersJoined"": 1466}",19,False,41 minute(s) and 8 second(s),0,9,54,37.5,6,6,False,True
+https://tribals.io/#SRVF,"{""kills"": 53, ""playersJoined"": 249}",4,False,43 minute(s) and 26 second(s),0,8,48,17.65,3,4,False,True
+https://tribals.io/#JYIZ,"{""kills"": 44, ""playersJoined"": 313}",7,False,44 minute(s) and 46 second(s),0,10,60,21.65,5,5,False,True
+https://tribals.io/#4VB0,"{""kills"": 349, ""playersJoined"": 1132}",9,False,45 minute(s) and 7 second(s),0,10,60,21.05,5,5,False,True
+https://tribals.io/#LQK4,"{""kills"": 138, ""playersJoined"": 368}",10,False,46 minute(s) and 8 second(s),0,9,54,12.77,6,6,False,True
+https://tribals.io/#157V,"{""kills"": 267, ""playersJoined"": 782}",8,False,46 minute(s) and 43 second(s),0,9,54,24.73,2,3,False,True
+https://tribals.io/#UQVP,"{""kills"": 124, ""playersJoined"": 434}",6,False,47 minute(s) and 3 second(s),0,9,54,24.24,4,5,False,True
+https://tribals.io/#IF7R,"{""kills"": 66, ""playersJoined"": 357}",4,False,47 minute(s) and 17 second(s),0,10,60,26.61,7,7,False,True
+https://tribals.io/#2CMF,"{""kills"": 86, ""playersJoined"": 476}",7,False,48 minute(s) and 49 second(s),0,9,54,20.79,6,6,False,True
+https://tribals.io/#0OGC,"{""kills"": 102, ""playersJoined"": 346}",5,False,49 minute(s) and 8 second(s),0,9,54,7,5,6,False,True
+https://tribals.io/#GPGL,"{""kills"": 51, ""playersJoined"": 359}",8,False,49 minute(s) and 32 second(s),0,9,54,35.71,6,7,False,True
+https://tribals.io/#WEPV,"{""kills"": 99, ""playersJoined"": 418}",5,False,51 minute(s) and 50 second(s),0,9,54,34.02,5,5,False,True
+https://tribals.io/#2SOK,"{""kills"": 202, ""playersJoined"": 672}",10,False,52 minute(s) and 5 second(s),0,8,48,15.46,4,4,False,True
+https://tribals.io/#266E,"{""kills"": 47, ""playersJoined"": 325}",2,False,52 minute(s) and 18 second(s),0,8,48,7.77,8,8,False,True
+https://tribals.io/#NDU4,"{""kills"": 122, ""playersJoined"": 381}",14,False,54 minute(s) and 17 second(s),0,10,60,13.54,5,5,False,True
+https://tribals.io/#AOCC,"{""kills"": 137, ""playersJoined"": 444}",3,False,1 hour(s) and 16 second(s),0,8,48,8.82,7,7,False,True
+https://tribals.io/#GM5B,"{""kills"": 142, ""playersJoined"": 379}",6,False,1 hour(s) and 52 second(s),0,10,60,14.71,5,6,False,True
+https://tribals.io/#ORTU,"{""kills"": 292, ""playersJoined"": 657}",4,False,"1 hour(s), 1 minute(s) and 58 second(s)",0,9,54,6.12,5,6,False,True
+https://tribals.io/#FOP4,"{""kills"": 743, ""playersJoined"": 1551}",8,False,"1 hour(s), 2 minute(s) and 22 second(s)",0,8,48,23.3,1,1,False,True
+https://tribals.io/#QABK,"{""kills"": 43, ""playersJoined"": 240}",3,False,"1 hour(s), 2 minute(s) and 34 second(s)",0,9,54,4.04,6,7,False,True
+https://tribals.io/#8MT4,"{""kills"": 74, ""playersJoined"": 258}",5,False,"1 hour(s), 4 minute(s) and 42 second(s)",0,9,54,6.25,4,6,False,True
+https://tribals.io/#3STY,"{""kills"": 291, ""playersJoined"": 785}",2,False,"1 hour(s), 6 minute(s) and 41 second(s)",0,8,48,19.39,6,6,False,True
+https://tribals.io/#6CSU,"{""kills"": 51, ""playersJoined"": 330}",4,False,"1 hour(s), 7 minute(s) and 21 second(s)",0,10,60,57.58,5,5,False,True
+https://tribals.io/#H1XV,"{""kills"": 65, ""playersJoined"": 373}",4,False,"1 hour(s), 7 minute(s) and 52 second(s)",0,9,54,10.2,6,6,False,True
+https://tribals.io/#EJCY,"{""kills"": 244, ""playersJoined"": 810}",17,False,"1 hour(s), 8 minute(s) and 37 second(s)",0,8,48,19.59,3,4,False,True
+https://tribals.io/#X8C2,"{""kills"": 276, ""playersJoined"": 1033}",13,False,"1 hour(s), 10 minute(s) and 46 second(s)",0,8,48,26.53,7,7,False,True
+https://tribals.io/#9E2G,"{""kills"": 150, ""playersJoined"": 630}",4,False,"1 hour(s), 10 minute(s) and 57 second(s)",0,10,60,20,5,5,False,True
+https://tribals.io/#7POS,"{""kills"": 176, ""playersJoined"": 619}",16,False,"1 hour(s), 12 minute(s) and 3 second(s)",0,8,48,25,5,6,False,True
+https://tribals.io/#EB7T,"{""kills"": 206, ""playersJoined"": 585}",10,False,"1 hour(s), 14 minute(s) and 18 second(s)",0,9,54,28.57,2,3,False,True
+https://tribals.io/#LSL5,"{""kills"": 120, ""playersJoined"": 407}",4,False,"1 hour(s), 15 minute(s) and 56 second(s)",0,9,54,17.31,5,5,False,True
+https://tribals.io/#M5AX,"{""kills"": 172, ""playersJoined"": 460}",4,False,"1 hour(s), 20 minute(s) and 49 second(s)",0,9,54,21.65,4,5,False,True
+https://tribals.io/#NYNY,"{""kills"": 88, ""playersJoined"": 319}",4,False,"1 hour(s), 21 minute(s) and 13 second(s)",0,9,54,11.22,2,2,False,True
+https://tribals.io/#WKDG,"{""kills"": 136, ""playersJoined"": 369}",6,False,"1 hour(s), 22 minute(s) and 24 second(s)",0,9,54,6.25,7,7,False,True
+https://tribals.io/#PFFE,"{""kills"": 17, ""playersJoined"": 71}",30,False,"1 hour(s), 24 minute(s) and 38 second(s)",0,1,6,84.54,3,3,False,True
+https://tribals.io/#N0BV,"{""kills"": 79, ""playersJoined"": 286}",2,False,"1 hour(s), 25 minute(s) and 46 second(s)",0,8,48,2.04,2,2,False,True
+https://tribals.io/#TXT1,"{""kills"": 545, ""playersJoined"": 1208}",10,False,"1 hour(s), 27 minute(s) and 32 second(s)",0,9,54,27.72,5,5,False,True
+https://tribals.io/#WBFK,"{""kills"": 68, ""playersJoined"": 339}",2,False,"1 hour(s), 29 minute(s) and 16 second(s)",0,9,54,3.09,4,5,False,True
+https://tribals.io/#4CIL,"{""kills"": 106, ""playersJoined"": 371}",10,False,"1 hour(s), 29 minute(s) and 49 second(s)",0,9,54,12.12,4,4,False,True
+https://tribals.io/#5DLU,"{""kills"": 342, ""playersJoined"": 1173}",25,False,"1 hour(s), 34 minute(s) and 18 second(s)",0,9,54,23.96,6,6,False,True
+https://tribals.io/#3PC2,"{""kills"": 380, ""playersJoined"": 951}",6,False,"1 hour(s), 34 minute(s) and 35 second(s)",0,9,54,16,5,5,False,True
+https://tribals.io/#L34F,"{""kills"": 54, ""playersJoined"": 292}",4,False,"1 hour(s), 36 minute(s) and 18 second(s)",0,9,54,59.78,5,5,False,True
+https://tribals.io/#3TTV,"{""kills"": 284, ""playersJoined"": 445}",10,False,"1 hour(s), 39 minute(s) and 53 second(s)",0,8,48,61.4,1,1,False,True
+https://tribals.io/#K0BU,"{""kills"": 36, ""playersJoined"": 331}",6,False,"1 hour(s), 39 minute(s) and 59 second(s)",0,10,60,12.5,3,4,False,True
+https://tribals.io/#LH10,"{""kills"": 67, ""playersJoined"": 206}",11,False,"1 hour(s), 40 minute(s) and 34 second(s)",0,1,6,41.94,1,2,False,True
+https://tribals.io/#GB4V,"{""kills"": 150, ""playersJoined"": 673}",2,False,"1 hour(s), 40 minute(s) and 53 second(s)",0,6,36,6,1,3,False,True
+https://tribals.io/#JKWD,"{""kills"": 32, ""playersJoined"": 287}",3,False,"1 hour(s), 44 minute(s) and 34 second(s)",0,8,48,1.04,2,4,False,True
+https://tribals.io/#G53A,"{""kills"": 165, ""playersJoined"": 516}",10,False,"1 hour(s), 48 minute(s) and 38 second(s)",0,9,54,25.74,1,1,False,True
+https://tribals.io/#R173,"{""kills"": 414, ""playersJoined"": 725}",20,False,"1 hour(s), 49 minute(s) and 34 second(s)",0,8,48,40.22,1,1,False,True
+https://tribals.io/#ZAH0,"{""kills"": 12, ""playersJoined"": 141}",4,False,"1 hour(s), 50 minute(s) and 22 second(s)",0,3,18,26.26,7,7,False,True
