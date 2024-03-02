@@ -1,9 +1,1 @@
 base_url,link,server,next_event_time,totalEvents,totalNpcs,spawnLocRad_10,spawnLocRad_5,eventCounter,spawned
-http://m64t.tribals.io:3000/api/stats,https://tribals.io/#M64T,m64t,0 seconds,1,18,4,4,3,True
-http://3ttv.tribals.io:3000/api/stats,https://tribals.io/#3TTV,3ttv,5 minute(s) and 25 second(s),0,12,4,5,2,False
-http://pffe.tribals.io:3000/api/stats,https://tribals.io/#PFFE,pffe,14 minute(s) and 30 second(s),0,6,6,7,1,False
-http://865y.tribals.io:3000/api/stats,https://tribals.io/#865Y,865y,20 minute(s) and 42 second(s),0,12,5,6,2,False
-http://h1xv.tribals.io:3000/api/stats,https://tribals.io/#H1XV,h1xv,28 minute(s) and 37 second(s),0,12,7,7,2,False
-http://kvj1.tribals.io:3000/api/stats,https://tribals.io/#KVJ1,kvj1,29 minute(s) and 41 second(s),0,12,6,7,2,False
-http://gm6c.tribals.io:3000/api/stats,https://tribals.io/#GM6C,gm6c,"1 hour(s), 3 minute(s) and 49 second(s)",0,12,4,5,2,False
-http://k2wn.tribals.io:3000/api/stats,https://tribals.io/#K2WN,k2wn,"1 hour(s), 19 minute(s) and 53 second(s)",0,12,4,5,2,False
