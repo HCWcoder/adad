@@ -1,99 +1,99 @@
 link,players,spawned,next_event_time,eventCounter,totalNpcs,cpu,spawnLocRad_10,spawnLocRad_5,barrelIssue,shipExists
-https://tribals.io/#LH10,8,True,0 seconds,5,30,32.65,0,1,False,True
-https://tribals.io/#Z9Q9,5,True,0 seconds,24,144,30.3,7,7,False,True
-https://tribals.io/#JU07,8,True,0 seconds,23,138,32.67,4,4,False,True
+https://tribals.io/#LH10,7,True,0 seconds,5,30,43,0,1,False,True
+https://tribals.io/#Z9Q9,4,True,0 seconds,24,144,29.13,7,7,False,True
+https://tribals.io/#JU07,8,True,0 seconds,23,138,27.84,4,4,False,True
 https://tribals.io/#266E,2,True,0 seconds,23,138,14,8,8,False,True
-https://tribals.io/#UQVP,5,True,0 seconds,23,138,31.96,3,4,False,True
-https://tribals.io/#RKHZ,5,True,0 seconds,22,132,21.43,4,5,False,True
-https://tribals.io/#JYIZ,1,True,0 seconds,25,150,15.31,5,5,False,True
-https://tribals.io/#LSL5,12,True,0 seconds,22,132,32.99,3,3,False,True
-https://tribals.io/#GM5B,10,True,0 seconds,23,138,30.48,4,5,False,True
-https://tribals.io/#EZJ1,3,True,0 seconds,11,66,4.04,5,6,False,True
-https://tribals.io/#GZOV,16,True,0 seconds,22,132,17.71,6,7,False,True
-https://tribals.io/#4CIL,8,True,0 seconds,24,144,26.21,0,0,False,True
-https://tribals.io/#DG2Y,10,True,0 seconds,24,144,19.8,6,6,False,True
-https://tribals.io/#WEPV,19,True,0 seconds,24,144,25.53,4,4,False,True
-https://tribals.io/#IF7R,5,True,0 seconds,23,138,26.04,6,6,False,True
-https://tribals.io/#PJ3R,3,True,0 seconds,22,132,6.86,2,2,False,True
-https://tribals.io/#QABK,9,True,0 seconds,19,114,18.18,5,6,False,True
-https://tribals.io/#2SOK,6,True,0 seconds,22,132,37,4,4,False,True
-https://tribals.io/#KYTC,1,True,0 seconds,23,138,12.5,4,4,False,True
-https://tribals.io/#3STY,4,True,0 seconds,22,132,32,5,5,False,True
-https://tribals.io/#FOP4,6,True,0 seconds,17,102,26.47,1,1,False,True
-https://tribals.io/#G53A,10,False,0 seconds,12,72,29.47,0,0,False,True
-https://tribals.io/#KVJ1,5,False,1 minute(s) and 4 second(s),22,132,12.24,3,3,False,True
-https://tribals.io/#G5UU,5,False,1 minute(s) and 41 second(s),22,132,13.4,1,2,False,True
-https://tribals.io/#6CSU,6,False,2 minute(s) and 45 second(s),24,144,18.37,4,4,False,True
-https://tribals.io/#NYNY,4,False,4 minute(s) and 27 second(s),23,138,11.76,1,1,False,True
-https://tribals.io/#DL2C,15,False,4 minute(s) and 29 second(s),23,138,16.67,5,5,False,True
-https://tribals.io/#0OGC,2,False,4 minute(s) and 32 second(s),24,144,31,5,6,False,True
-https://tribals.io/#5DLU,9,False,4 minute(s) and 38 second(s),22,132,22.77,3,3,False,True
-https://tribals.io/#CZJ0,2,False,5 minute(s) and 34 second(s),21,126,6.19,2,3,False,True
-https://tribals.io/#157V,4,False,9 minute(s) and 6 second(s),23,138,36.63,2,3,False,True
-https://tribals.io/#865Y,12,False,9 minute(s) and 15 second(s),22,132,42.71,5,6,False,True
-https://tribals.io/#TXT1,8,False,9 minute(s) and 35 second(s),22,132,32,6,6,False,True
-https://tribals.io/#Q43O,6,False,11 minute(s) and 13 second(s),23,138,21.21,7,7,False,True
-https://tribals.io/#GPGL,4,False,11 minute(s) and 36 second(s),23,138,29.17,6,7,False,True
-https://tribals.io/#H1XV,7,False,13 minute(s) and 18 second(s),23,138,22.92,7,7,False,True
-https://tribals.io/#PUGY,11,False,14 minute(s) and 35 second(s),23,138,37.37,2,3,False,True
-https://tribals.io/#5DC6,7,False,15 minute(s) and 9 second(s),20,120,33.67,2,5,False,True
-https://tribals.io/#JKWD,1,False,15 minute(s) and 56 second(s),22,132,5.88,2,2,False,True
-https://tribals.io/#PFFE,29,False,17 minute(s) and 24 second(s),1,6,100,4,5,False,True
-https://tribals.io/#GP2Y,0,False,19 minute(s),22,132,22.55,3,4,False,True
-https://tribals.io/#X0NA,10,False,19 minute(s) and 7 second(s),22,132,21.65,5,6,False,True
-https://tribals.io/#X8C2,7,False,19 minute(s) and 16 second(s),21,126,36,8,8,False,True
-https://tribals.io/#D4A9,4,False,21 minute(s) and 55 second(s),24,144,12.87,6,6,False,True
-https://tribals.io/#8MT4,6,False,25 minute(s) and 42 second(s),23,138,5.05,4,6,False,True
-https://tribals.io/#LR4H,11,False,26 minute(s) and 17 second(s),23,138,11.11,5,6,False,True
-https://tribals.io/#EB7T,4,False,27 minute(s) and 32 second(s),22,132,37.11,3,4,False,True
-https://tribals.io/#H41F,3,False,29 minute(s) and 54 second(s),21,126,20.41,4,6,False,True
-https://tribals.io/#JOCV,7,False,30 minute(s) and 51 second(s),22,132,23.23,6,6,False,True
-https://tribals.io/#0P95,3,False,31 minute(s) and 25 second(s),23,138,33.33,4,5,False,True
-https://tribals.io/#GRDZ,7,False,31 minute(s) and 51 second(s),24,144,21.78,7,7,False,True
-https://tribals.io/#AOCC,7,False,32 minute(s) and 46 second(s),22,132,15.79,6,6,False,True
-https://tribals.io/#EJCY,7,False,32 minute(s) and 46 second(s),21,126,18.45,5,6,False,True
-https://tribals.io/#4HUQ,6,False,33 minute(s) and 12 second(s),22,132,35.58,2,2,False,True
-https://tribals.io/#9E2G,8,False,33 minute(s) and 17 second(s),25,150,66.88,6,6,False,True
-https://tribals.io/#M64T,5,False,35 minute(s) and 25 second(s),22,132,16,3,4,False,True
-https://tribals.io/#ZAH0,1,False,35 minute(s) and 38 second(s),16,96,11.88,6,6,False,True
-https://tribals.io/#GM6C,13,False,39 minute(s) and 59 second(s),14,84,30.91,4,4,False,True
-https://tribals.io/#G4JF,8,False,40 minute(s) and 38 second(s),20,120,33.67,3,3,False,True
-https://tribals.io/#QMES,3,False,41 minute(s) and 14 second(s),24,145,10.2,5,5,False,True
-https://tribals.io/#3TTV,6,False,41 minute(s) and 40 second(s),21,126,28.42,2,3,False,True
-https://tribals.io/#R173,10,False,42 minute(s) and 47 second(s),21,126,16.33,2,2,False,True
-https://tribals.io/#L34F,6,False,44 minute(s) and 17 second(s),22,132,63.64,6,6,False,True
-https://tribals.io/#D0WM,2,False,46 minute(s) and 1 second(s),24,144,58.39,8,8,False,True
-https://tribals.io/#WKDG,5,False,48 minute(s) and 7 second(s),22,132,16.83,5,5,False,True
-https://tribals.io/#QQZX,13,False,49 minute(s) and 3 second(s),22,132,14.89,6,7,False,True
-https://tribals.io/#4VB0,1,False,50 minute(s),25,150,8.91,8,8,False,True
-https://tribals.io/#7POS,3,False,50 minute(s) and 49 second(s),22,132,8.16,6,6,False,True
-https://tribals.io/#K0BU,3,False,52 minute(s) and 9 second(s),23,138,25,2,3,False,True
-https://tribals.io/#AYYT,4,False,52 minute(s) and 11 second(s),21,126,12,7,7,False,True
-https://tribals.io/#N0BV,11,False,54 minute(s) and 12 second(s),21,126,19.59,2,2,False,True
-https://tribals.io/#98BX,5,False,57 minute(s) and 30 second(s),23,138,18.18,8,8,False,True
-https://tribals.io/#WBFK,1,False,57 minute(s) and 35 second(s),22,132,5.1,5,6,False,True
-https://tribals.io/#M5AX,5,False,58 minute(s) and 19 second(s),23,138,10.2,5,6,False,True
-https://tribals.io/#72TB,11,False,59 minute(s) and 26 second(s),22,132,22.92,5,5,False,True
-https://tribals.io/#811Z,4,False,59 minute(s) and 35 second(s),23,138,27.27,5,6,False,True
-https://tribals.io/#FL8P,8,False,1 hour(s) and 56 second(s),24,144,41,5,5,False,True
-https://tribals.io/#TQC2,12,False,"1 hour(s), 5 minute(s) and 38 second(s)",22,132,55.32,3,4,False,True
-https://tribals.io/#2K79,0,False,"1 hour(s), 6 minute(s) and 51 second(s)",23,138,9.18,2,2,False,True
-https://tribals.io/#ORTU,6,False,"1 hour(s), 7 minute(s) and 26 second(s)",24,144,27.45,3,4,False,True
-https://tribals.io/#K2WN,10,False,"1 hour(s), 7 minute(s) and 40 second(s)",20,120,35.71,2,3,False,True
-https://tribals.io/#2CMF,5,False,"1 hour(s), 8 minute(s) and 39 second(s)",23,138,7.14,3,4,False,True
-https://tribals.io/#9FPH,10,False,"1 hour(s), 8 minute(s) and 46 second(s)",23,138,36.63,1,2,False,True
-https://tribals.io/#QYUQ,5,False,"1 hour(s), 11 minute(s) and 13 second(s)",23,138,20.19,1,2,False,True
-https://tribals.io/#QXLE,19,False,"1 hour(s), 13 minute(s) and 34 second(s)",25,150,28.87,7,7,False,True
-https://tribals.io/#V2C0,0,False,"1 hour(s), 13 minute(s) and 49 second(s)",22,132,28.28,4,6,False,True
-https://tribals.io/#P3ME,18,False,1 hour(s) and 15 minute(s),23,138,25,4,5,False,True
-https://tribals.io/#GB4V,3,False,"1 hour(s), 15 minute(s) and 45 second(s)",12,72,7.07,2,3,False,True
-https://tribals.io/#N4MK,1,False,"1 hour(s), 16 minute(s) and 26 second(s)",21,126,16.51,2,3,False,True
-https://tribals.io/#LF1N,11,False,"1 hour(s), 16 minute(s) and 42 second(s)",23,138,26.21,5,6,False,True
-https://tribals.io/#3PC2,2,False,"1 hour(s), 24 minute(s) and 34 second(s)",24,144,9.09,5,5,False,True
-https://tribals.io/#3B5O,9,False,"1 hour(s), 28 minute(s) and 13 second(s)",20,120,24.51,2,2,False,True
-https://tribals.io/#BPPO,4,False,"1 hour(s), 28 minute(s) and 19 second(s)",18,108,11.34,0,1,False,True
-https://tribals.io/#LQK4,7,False,"1 hour(s), 30 minute(s) and 59 second(s)",23,138,19.35,4,5,False,True
-https://tribals.io/#SRVF,4,False,"1 hour(s), 34 minute(s) and 34 second(s)",22,132,14.74,4,5,False,True
-https://tribals.io/#8P7U,3,False,"1 hour(s), 36 minute(s) and 15 second(s)",23,138,14.56,4,4,False,True
-https://tribals.io/#NDU4,5,False,"1 hour(s), 39 minute(s) and 45 second(s)",24,144,8.25,3,3,False,True
-https://tribals.io/#6M42,9,False,"1 hour(s), 45 minute(s) and 24 second(s)",24,144,18.27,6,7,False,True
+https://tribals.io/#RKHZ,4,True,0 seconds,22,132,24,5,5,False,True
+https://tribals.io/#GM5B,11,True,0 seconds,23,138,26.26,4,5,False,True
+https://tribals.io/#LSL5,12,True,0 seconds,22,132,51.06,3,3,False,True
+https://tribals.io/#EZJ1,5,True,0 seconds,11,66,20.41,5,6,False,True
+https://tribals.io/#4CIL,9,True,0 seconds,24,144,18,0,0,False,True
+https://tribals.io/#DG2Y,10,True,0 seconds,24,144,10.75,6,6,False,True
+https://tribals.io/#WEPV,20,True,0 seconds,24,144,21.05,4,4,False,True
+https://tribals.io/#IF7R,5,True,0 seconds,23,138,55.75,6,6,False,True
+https://tribals.io/#PJ3R,3,True,0 seconds,22,132,4.04,2,2,False,True
+https://tribals.io/#QABK,9,True,0 seconds,19,114,17.82,5,6,False,True
+https://tribals.io/#2SOK,6,True,0 seconds,22,132,28.16,4,4,False,True
+https://tribals.io/#FOP4,6,True,0 seconds,17,102,18.81,1,1,False,True
+https://tribals.io/#KYTC,1,True,0 seconds,23,138,33.33,4,4,False,True
+https://tribals.io/#G53A,12,False,0 seconds,12,72,32.38,0,0,False,True
+https://tribals.io/#KVJ1,5,False,4 second(s),22,132,12.24,3,3,False,True
+https://tribals.io/#G5UU,5,False,41 second(s),22,132,15.31,1,2,False,True
+https://tribals.io/#6CSU,5,False,1 minute(s) and 45 second(s),24,144,19.8,4,4,False,True
+https://tribals.io/#NYNY,4,False,3 minute(s) and 27 second(s),23,138,11.34,1,1,False,True
+https://tribals.io/#DL2C,12,False,3 minute(s) and 29 second(s),23,138,16.84,5,5,False,True
+https://tribals.io/#0OGC,1,False,3 minute(s) and 32 second(s),24,144,57.94,5,6,False,True
+https://tribals.io/#5DLU,10,False,3 minute(s) and 38 second(s),22,132,24.24,3,3,False,True
+https://tribals.io/#CZJ0,2,False,4 minute(s) and 34 second(s),21,126,5.05,2,3,False,True
+https://tribals.io/#157V,4,False,8 minute(s) and 7 second(s),23,138,28.87,2,3,False,True
+https://tribals.io/#865Y,12,False,8 minute(s) and 15 second(s),22,132,45.65,5,6,False,True
+https://tribals.io/#TXT1,8,False,8 minute(s) and 35 second(s),22,132,22.11,6,6,False,True
+https://tribals.io/#Q43O,6,False,10 minute(s) and 13 second(s),23,138,37.37,7,7,False,True
+https://tribals.io/#GPGL,4,False,10 minute(s) and 36 second(s),23,138,27.45,6,7,False,True
+https://tribals.io/#H1XV,7,False,12 minute(s) and 18 second(s),23,138,26,7,7,False,True
+https://tribals.io/#PUGY,9,False,13 minute(s) and 35 second(s),23,138,30.3,2,3,False,True
+https://tribals.io/#5DC6,6,False,14 minute(s) and 9 second(s),20,120,23.96,2,5,False,True
+https://tribals.io/#JKWD,2,False,14 minute(s) and 57 second(s),22,132,6,2,3,False,True
+https://tribals.io/#PFFE,28,False,16 minute(s) and 17 second(s),1,6,100,4,5,False,True
+https://tribals.io/#GP2Y,1,False,18 minute(s),22,132,40.2,3,4,False,True
+https://tribals.io/#X0NA,16,False,18 minute(s) and 7 second(s),22,132,27.27,5,6,False,True
+https://tribals.io/#X8C2,6,False,18 minute(s) and 16 second(s),21,126,21.05,8,8,False,True
+https://tribals.io/#D4A9,4,False,20 minute(s) and 55 second(s),24,144,8.16,6,6,False,True
+https://tribals.io/#8MT4,3,False,24 minute(s) and 42 second(s),23,138,4.04,4,6,False,True
+https://tribals.io/#LR4H,11,False,25 minute(s) and 17 second(s),23,138,13,5,6,False,True
+https://tribals.io/#EB7T,12,False,26 minute(s) and 32 second(s),22,132,43,3,4,False,True
+https://tribals.io/#H41F,3,False,28 minute(s) and 54 second(s),21,126,19,4,6,False,True
+https://tribals.io/#JOCV,7,False,29 minute(s) and 52 second(s),22,132,22.33,6,6,False,True
+https://tribals.io/#0P95,3,False,30 minute(s) and 25 second(s),23,138,19.35,4,5,False,True
+https://tribals.io/#GRDZ,7,False,30 minute(s) and 51 second(s),24,144,28.28,7,7,False,True
+https://tribals.io/#AOCC,7,False,31 minute(s) and 46 second(s),22,132,10.31,6,6,False,True
+https://tribals.io/#EJCY,9,False,31 minute(s) and 46 second(s),21,126,15.31,4,5,False,True
+https://tribals.io/#4HUQ,6,False,32 minute(s) and 12 second(s),22,132,26.13,2,2,False,True
+https://tribals.io/#9E2G,4,False,32 minute(s) and 18 second(s),25,150,18.37,6,6,False,True
+https://tribals.io/#M64T,6,False,34 minute(s) and 25 second(s),22,132,11.11,3,4,False,True
+https://tribals.io/#ZAH0,1,False,34 minute(s) and 39 second(s),16,96,11,6,6,False,True
+https://tribals.io/#GM6C,15,False,39 minute(s),14,84,17.35,4,4,False,True
+https://tribals.io/#G4JF,8,False,39 minute(s) and 38 second(s),20,120,39.39,3,3,False,True
+https://tribals.io/#QMES,2,False,40 minute(s) and 14 second(s),24,145,3.03,5,5,False,True
+https://tribals.io/#3TTV,6,False,40 minute(s) and 40 second(s),21,126,29.59,2,3,False,True
+https://tribals.io/#R173,11,False,41 minute(s) and 47 second(s),21,126,21.43,2,2,False,True
+https://tribals.io/#L34F,4,False,43 minute(s) and 17 second(s),22,132,33,6,6,False,True
+https://tribals.io/#D0WM,1,False,45 minute(s) and 2 second(s),24,144,32.14,8,8,False,True
+https://tribals.io/#WKDG,4,False,47 minute(s) and 7 second(s),22,132,13.13,5,5,False,True
+https://tribals.io/#QQZX,13,False,48 minute(s) and 3 second(s),22,132,20,5,6,False,True
+https://tribals.io/#4VB0,1,False,49 minute(s),25,150,4.17,8,8,False,True
+https://tribals.io/#7POS,2,False,49 minute(s) and 49 second(s),22,132,5.05,6,6,False,True
+https://tribals.io/#K0BU,2,False,51 minute(s) and 9 second(s),23,138,34.34,2,3,False,True
+https://tribals.io/#AYYT,5,False,51 minute(s) and 11 second(s),21,126,15,6,7,False,True
+https://tribals.io/#N0BV,9,False,53 minute(s) and 13 second(s),21,126,17.35,2,2,False,True
+https://tribals.io/#98BX,4,False,56 minute(s) and 30 second(s),23,138,18.63,8,8,False,True
+https://tribals.io/#WBFK,1,False,56 minute(s) and 35 second(s),22,132,17.53,5,6,False,True
+https://tribals.io/#M5AX,3,False,57 minute(s) and 19 second(s),23,138,15.24,5,6,False,True
+https://tribals.io/#72TB,10,False,58 minute(s) and 27 second(s),22,132,51.38,5,5,False,True
+https://tribals.io/#811Z,2,False,58 minute(s) and 35 second(s),23,138,24.27,5,6,False,True
+https://tribals.io/#FL8P,7,False,59 minute(s) and 56 second(s),24,144,54.81,5,5,False,True
+https://tribals.io/#TQC2,11,False,"1 hour(s), 4 minute(s) and 37 second(s)",22,132,45.83,2,3,False,True
+https://tribals.io/#GZOV,13,False,"1 hour(s), 5 minute(s) and 28 second(s)",22,132,14.43,5,6,False,True
+https://tribals.io/#2K79,0,False,"1 hour(s), 5 minute(s) and 50 second(s)",23,138,12,2,2,False,True
+https://tribals.io/#ORTU,6,False,"1 hour(s), 6 minute(s) and 26 second(s)",24,144,45.1,3,4,False,True
+https://tribals.io/#K2WN,10,False,"1 hour(s), 6 minute(s) and 41 second(s)",20,120,32.26,2,3,False,True
+https://tribals.io/#2CMF,4,False,"1 hour(s), 7 minute(s) and 39 second(s)",23,138,9.09,3,4,False,True
+https://tribals.io/#9FPH,10,False,"1 hour(s), 7 minute(s) and 45 second(s)",23,138,29.9,1,2,False,True
+https://tribals.io/#QYUQ,5,False,"1 hour(s), 10 minute(s) and 14 second(s)",23,138,23.47,1,2,False,True
+https://tribals.io/#QXLE,17,False,"1 hour(s), 12 minute(s) and 34 second(s)",25,150,22.45,7,7,False,True
+https://tribals.io/#V2C0,0,False,"1 hour(s), 12 minute(s) and 49 second(s)",22,132,15.15,4,6,False,True
+https://tribals.io/#UQVP,5,False,"1 hour(s), 13 minute(s) and 34 second(s)",23,138,27.55,3,4,False,True
+https://tribals.io/#P3ME,15,False,1 hour(s) and 14 minute(s),23,138,25.47,4,5,False,True
+https://tribals.io/#GB4V,2,False,"1 hour(s), 14 minute(s) and 44 second(s)",12,72,7,2,3,False,True
+https://tribals.io/#N4MK,1,False,"1 hour(s), 15 minute(s) and 26 second(s)",21,126,13.27,2,3,False,True
+https://tribals.io/#LF1N,10,False,"1 hour(s), 15 minute(s) and 42 second(s)",23,138,59.46,5,6,False,True
+https://tribals.io/#JYIZ,1,False,"1 hour(s), 17 minute(s) and 17 second(s)",25,150,13,6,6,False,True
+https://tribals.io/#3PC2,2,False,"1 hour(s), 23 minute(s) and 34 second(s)",24,144,12.12,5,5,False,True
+https://tribals.io/#3B5O,9,False,"1 hour(s), 27 minute(s) and 13 second(s)",20,120,21.15,2,2,False,True
+https://tribals.io/#BPPO,4,False,"1 hour(s), 27 minute(s) and 19 second(s)",18,108,5.26,0,1,False,True
+https://tribals.io/#LQK4,8,False,1 hour(s) and 30 minute(s),23,138,30.39,4,5,False,True
+https://tribals.io/#SRVF,6,False,"1 hour(s), 33 minute(s) and 34 second(s)",22,132,32.99,4,5,False,True
+https://tribals.io/#8P7U,3,False,"1 hour(s), 35 minute(s) and 15 second(s)",23,138,10.1,4,4,False,True
+https://tribals.io/#NDU4,4,False,"1 hour(s), 38 minute(s) and 45 second(s)",24,144,7.45,3,3,False,True
+https://tribals.io/#3STY,4,False,"1 hour(s), 43 minute(s) and 49 second(s)",22,132,27.62,5,5,False,True
+https://tribals.io/#6M42,8,False,"1 hour(s), 44 minute(s) and 24 second(s)",24,144,19.23,6,7,False,True
